@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Neelgats
-- 👀 I’m interested in coding and designing 
-- 🌱 I’m currently learning c++ and after effects 
+- 👀 I’m interested in programming and designing
+- 
+- ```🌱 On my way to become a fullstack developer```
   
 - 
 
